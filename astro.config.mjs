@@ -26,8 +26,8 @@ import { pluginCustomCopyButton } from "./src/plugins/expressive-code/custom-cop
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://fuwari.vercel.app/",
-	base: "/",
+	site: "https://SSSS-1-source.github.io",
+	base: "/JMQ.us.kg",
 	trailingSlash: "always",
 	integrations: [
 		tailwind({
